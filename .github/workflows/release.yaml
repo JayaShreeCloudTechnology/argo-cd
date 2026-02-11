@@ -354,3 +354,4 @@ jobs:
           branch-suffix: random
           base: master
         if: ${{ env.UPDATE_VERSION == 'true' }}
+        #test
